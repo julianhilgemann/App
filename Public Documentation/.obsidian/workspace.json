@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "6781d1e0abf3204d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3aa24846025eddd1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "960284f64a168d3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Seed.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8145aafe4e1c166f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Preparation and planning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "465b9275bde4335f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Brainstorming.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "079d8b870aa27f27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Brainstorming.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fd984b2bd794a085",
+    "type": "split",
+    "children": [
+      {
+        "id": "90da3dc171806e78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d227b384d8b95c43",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "209c81c8ecffc23d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "287a04377709e3d0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4fa86a738363da55",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf7c5e4ab7b6050b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba98358999feae0d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3. Brainstorming.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e8174d415e35e556",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3. Brainstorming.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "47863857ef4a6b86",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4466b02ba4b0d2ed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3. Brainstorming.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "079d8b870aa27f27",
+  "lastOpenFiles": [
+    "Bildschirmfoto 2023-04-27 um 22.04.26.png",
+    "5. Math & More.md",
+    "3. Brainstorming.md",
+    "1. Seed.md",
+    "2. Preparation and planning.md",
+    "3. Brainstorming"
+  ]
+}
