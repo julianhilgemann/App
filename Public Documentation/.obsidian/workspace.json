@@ -4,59 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3aa24846025eddd1",
+        "id": "8f2f75a3bbc50579",
         "type": "tabs",
         "children": [
           {
-            "id": "960284f64a168d3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Seed.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8145aafe4e1c166f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Preparation and planning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "465b9275bde4335f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Brainstorming.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "079d8b870aa27f27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Preparation and planning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10110b066d161d86",
+            "id": "31c28e38681a7378",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -66,9 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c04e933a5137ca9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Timetracker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Coding and Development.md",
+                "file": "Timetracker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Coding and Development.md",
+                "file": "Timetracker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Coding and Development.md"
+                "file": "Timetracker.md"
               }
             }
           }
@@ -195,14 +159,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "10110b066d161d86",
+  "active": "c04e933a5137ca9f",
   "lastOpenFiles": [
-    "2. Preparation and planning.md",
-    "6. Coding and Development.md",
-    "3. Brainstorming.md",
-    "5. Math & More.md",
-    "Bildschirmfoto 2023-04-27 um 22.04.26.png",
     "1. Seed.md",
+    "2. Preparation and planning.md",
+    "Bildschirmfoto 2023-04-27 um 22.04.26.png",
+    "Timetracker.md",
+    "6. Coding and Development.md",
+    "5. Math & More.md",
+    "3. Brainstorming.md",
     "3. Brainstorming"
   ]
 }
