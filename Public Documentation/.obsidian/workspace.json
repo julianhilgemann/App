@@ -8,31 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "31c28e38681a7378",
+            "id": "c04e933a5137ca9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Coding and Development.md",
+                "file": "2. Preparation and planning.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c04e933a5137ca9f",
+            "id": "511b1ee66c392ef6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timetracker.md",
+                "file": "4. Week 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c527d454887ee0f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Code Cheat Sheet.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "4fa86a738363da55",
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Timetracker.md",
+                "file": "Code Cheat Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Timetracker.md",
+                "file": "Code Cheat Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Timetracker.md"
+                "file": "Code Cheat Sheet.md"
               }
             }
           }
@@ -159,15 +171,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c04e933a5137ca9f",
+  "active": "c527d454887ee0f8",
   "lastOpenFiles": [
-    "1. Seed.md",
-    "2. Preparation and planning.md",
-    "Bildschirmfoto 2023-04-27 um 22.04.26.png",
-    "Timetracker.md",
-    "6. Coding and Development.md",
-    "5. Math & More.md",
+    "4. Week 1.md",
+    "Code Cheat Sheet.md",
     "3. Brainstorming.md",
+    "Math & More.md",
+    "0. Insights.md",
+    "Timetracker.md",
+    "Hello Streamlit.png",
+    "Hello Flask.png",
+    "wireframe MVP.png",
+    "2. Preparation and planning.md",
+    "1. Seed.md",
+    "6. Coding and Development.md",
+    "flowchart.png",
     "3. Brainstorming"
   ]
 }
