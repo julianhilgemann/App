@@ -1,4 +1,4 @@
-#### 27.04.2023
+#### Thursday 27.04.2023
 
 I know for sure that I need Github to manage the code and documentation. Thankfully, no issues in setting it up
 
@@ -496,7 +496,7 @@ This architecture allows for efficient data retrieval and processing, as well as
 ---
 So yeah, I will go for prototyping first, until I have a pandas dataframe that I can fetch with a simple key and then I will setup the Database to save the Data into the database. 
 
-#### 01.05.2023
+#### Monday 01.05.2023
 
 For that I will integrate the API Call for the german Bundesbank that I already build once. The idea is simple: Given a dictionary of Names and Keys, the code accesses the API and gets the JSON that has the information. From there it extracts the time series data and time stamps and puts it into a pandas dataframe. If I give it a whole list of variables, it loops through the list and gives back the whole table and joins in to match the start and end date. For this purpose I will adjust it and make it return just one time series and store some metadata, such as dates, frequencies and the like inside a database. Later on, the concept is that first there will be a lookup inside the database and, if not available, only then a call to the central bank server.
 
@@ -513,10 +513,17 @@ And since it is unnecessary at this stage to deal with Docker images, I might as
 First things first. I successfully fetched the Data and wrote it into the SQL Database and now can extract it from the database and plot it accordingly. I might as well go for a regression right off the bat.
 
 
-![[Pasted image 20230501165904.png]]
+![[All data Prototype Screenshot.png]]
 
 
 With some more statistics:
 
-![[Pasted image 20230501165946.png]]
+![[Prototype Output Table.png]]
 
+After some prompting I think I am happy with this type of Regression:
+
+![[Prototype Reg line.png]]
+
+Since the prototype is done, the next steps should be to somehow wrap it all inside a big function that takes "name" and "key" as inputs and from there just performs the API Call, wraps the data into a pd, stores it into the database, cleans the workspace, gets the data from the database, loggs the action and plots the results. The two user inputs should be performed from within flask and the plotting should happen in Streamlit.
+
+Next steps will be setting up flask properly and getting some user input to run the script.

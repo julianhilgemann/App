@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Preparation and planning.md",
+                "file": "Progress Log.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,21 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c527d454887ee0f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Progress Log.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,12 +141,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,22 +158,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c527d454887ee0f8",
+  "active": "c04e933a5137ca9f",
   "lastOpenFiles": [
-    "Pasted image 20230501165946.png",
-    "Pasted image 20230501165904.png",
     "Timetracker.md",
     "Progress Log.md",
-    "Code Cheat Sheet.md",
-    "Hello Flask.png",
     "Math & More.md",
-    "Hello Streamlit.png",
-    "wireframe MVP.png",
-    "flowchart.png",
+    "Code Cheat Sheet.md",
     "3. Brainstorming.md",
-    "0. Insights.md",
     "2. Preparation and planning.md",
     "1. Seed.md",
+    "0. Insights.md",
+    "Figures/All data Prototype Screenshot.png",
+    "Figures/flowchart.png",
+    "Figures/Prototype Reg line.png",
+    "Figures",
+    "Figures/Prototype Output Table.png",
+    "Pasted image 20230501173507.png",
+    "Pasted image 20230501173540.png",
+    "Figures/Hello Flask.png",
+    "Figures/Hello Streamlit.png",
+    "Figures/wireframe MVP.png",
     "6. Coding and Development.md",
     "3. Brainstorming"
   ]
