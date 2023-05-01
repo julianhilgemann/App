@@ -44,3 +44,19 @@ git push origin your-branch-name
 touch Filename
 ```
 
+Run Container
+
+```bash
+
+docker run -d --name app -p 5000:5000 -p 8501:8501 -p 8888:8888 app
+```
+
+Get rid of all old containers
+
+```bash
+
+docker container prune
+
+```
+
+[Jupyter](http://localhost:8888/lab)
