@@ -1,3 +1,5 @@
+#### 27.04.2023
+
 I know for sure that I need Github to manage the code and documentation. Thankfully, no issues in setting it up
 
 ```ChatGPT
@@ -190,6 +192,8 @@ Weeks 11-13:
 
 ```
 
+
+#### Saturday 29.04.2023
 
 However, planning it out I immediately see that the timeframe for project completion is very generous and I might be able to do it faster. A quick jot down inside the timeline should be fine and then I will power through as much as I can without waiting too long or sticking to the long time intervalls.
 
@@ -492,6 +496,8 @@ This architecture allows for efficient data retrieval and processing, as well as
 ---
 So yeah, I will go for prototyping first, until I have a pandas dataframe that I can fetch with a simple key and then I will setup the Database to save the Data into the database. 
 
+#### 01.05.2023
+
 For that I will integrate the API Call for the german Bundesbank that I already build once. The idea is simple: Given a dictionary of Names and Keys, the code accesses the API and gets the JSON that has the information. From there it extracts the time series data and time stamps and puts it into a pandas dataframe. If I give it a whole list of variables, it loops through the list and gives back the whole table and joins in to match the start and end date. For this purpose I will adjust it and make it return just one time series and store some metadata, such as dates, frequencies and the like inside a database. Later on, the concept is that first there will be a lookup inside the database and, if not available, only then a call to the central bank server.
 
 Fortunately the code works as expected and the API call does what it is supposed to do which means now I have data.
@@ -502,10 +508,15 @@ So here comes the first technically challenging part, that is creating the datab
 
 Since I have my data already I might as well quickly prototype a graph that I want to be displayed in streamlit, including the time series regression, trendline.
 
-And since it is unnecessary at this stage to deal with Docker images, I might as well continue locally, without containarization.
+And since it is unnecessary at this stage to deal with Docker images, I might as well continue locally, without containerization.
+
+First things first. I successfully fetched the Data and wrote it into the SQL Database and now can extract it from the database and plot it accordingly. I might as well go for a regression right off the bat.
 
 
+![[Pasted image 20230501165904.png]]
 
 
+With some more statistics:
 
+![[Pasted image 20230501165946.png]]
 

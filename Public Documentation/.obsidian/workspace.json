@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Week 1.md",
+                "file": "Progress Log.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Week 1.md",
+                "file": "Progress Log.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Week 1.md",
+                "file": "Progress Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Week 1.md",
+                "file": "Progress Log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Week 1.md"
+                "file": "Progress Log.md"
               }
             }
           }
@@ -173,11 +173,13 @@
   },
   "active": "c527d454887ee0f8",
   "lastOpenFiles": [
+    "Pasted image 20230501165946.png",
+    "Pasted image 20230501165904.png",
+    "Timetracker.md",
+    "Progress Log.md",
     "Code Cheat Sheet.md",
-    "4. Week 1.md",
     "Hello Flask.png",
     "Math & More.md",
-    "Timetracker.md",
     "Hello Streamlit.png",
     "wireframe MVP.png",
     "flowchart.png",
