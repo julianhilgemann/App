@@ -30,8 +30,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a1b8658afc143476",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "9f9a7f0645fc7fa2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Preparation and planning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -76,6 +97,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "1a7626ce635ed937",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -97,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Progress Log.md",
+                "file": "2. Preparation and planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Progress Log.md",
+                "file": "2. Preparation and planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Progress Log.md"
+                "file": "2. Preparation and planning.md"
               }
             }
           }
@@ -158,16 +187,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c04e933a5137ca9f",
+  "active": "9f9a7f0645fc7fa2",
   "lastOpenFiles": [
+    "1. Seed.md",
+    "0. Insights.md",
     "Timetracker.md",
     "Progress Log.md",
     "Math & More.md",
     "Code Cheat Sheet.md",
     "3. Brainstorming.md",
     "2. Preparation and planning.md",
-    "1. Seed.md",
-    "0. Insights.md",
     "Figures/All data Prototype Screenshot.png",
     "Figures/flowchart.png",
     "Figures/Prototype Reg line.png",

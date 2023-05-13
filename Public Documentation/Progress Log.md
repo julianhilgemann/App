@@ -527,3 +527,7 @@ After some prompting I think I am happy with this type of Regression:
 Since the prototype is done, the next steps should be to somehow wrap it all inside a big function that takes "name" and "key" as inputs and from there just performs the API Call, wraps the data into a pd, stores it into the database, cleans the workspace, gets the data from the database, loggs the action and plots the results. The two user inputs should be performed from within flask and the plotting should happen in Streamlit.
 
 Next steps will be setting up flask properly and getting some user input to run the script.
+
+#### Saturday 13.05.2023
+
+Now it seems to be of the highest priority to wire the frameworks together.
